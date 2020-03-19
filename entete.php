@@ -16,6 +16,7 @@
 
 </header>
 <div>
+salut
 <ul>
   <li><a class="active" href="index.php">Accueil</a></li>
   <li><a href="planning.php">Planning </a></li>
